@@ -1,0 +1,6 @@
+{
+  "name": "Español paso a paso — Практика настоящего времени",
+  "description": "Интерактивное образовательное приложение для изучения и отработки ключевых конструкций настоящего времени в испанском языке (estar/seguir/llevar/ir + gerundio, tener, tener que, querer).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
